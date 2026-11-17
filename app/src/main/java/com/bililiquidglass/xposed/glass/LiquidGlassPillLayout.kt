@@ -1,4 +1,4 @@
-package com.bililiquidglass.xposed.glass
+package io.github.tomorisuki2333.bililiquidglass.glass
 
 import android.content.Context
 import android.graphics.BlurMaskFilter
@@ -26,7 +26,7 @@ import android.view.ViewGroup
 import android.view.ViewOutlineProvider
 import android.widget.FrameLayout
 import androidx.annotation.RequiresApi
-import com.bililiquidglass.xposed.config.GlassConfig
+import io.github.tomorisuki2333.bililiquidglass.config.GlassConfig
 import kotlin.math.abs
 import kotlin.math.ceil
 import kotlin.math.max

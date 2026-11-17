@@ -1,4 +1,4 @@
-package com.bililiquidglass.xposed.glass
+package io.github.tomorisuki2333.bililiquidglass.glass
 
 import kotlin.math.ceil
 import kotlin.math.min

@@ -1,4 +1,4 @@
-package com.bililiquidglass.xposed.hook
+package io.github.tomorisuki2333.bililiquidglass.hook
 
 /**
  * Pure classification policy for nodes inside legacy XML [com.bilibili.lib.homepage.widget.TabHost].

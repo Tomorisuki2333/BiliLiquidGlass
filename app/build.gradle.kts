@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace = "com.bililiquidglass.xposed"
+    namespace = "io.github.tomorisuki2333.bililiquidglass"
     compileSdk = 37
     buildToolsVersion = "35.0.0"
 
     defaultConfig {
-        applicationId = "com.bililiquidglass.xposed"
+        applicationId = "io.github.tomorisuki2333.bililiquidglass"
         minSdk = 28
         targetSdk = 35
         versionCode = 115

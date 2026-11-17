@@ -1,12 +1,12 @@
-package com.bililiquidglass.xposed
+package io.github.tomorisuki2333.bililiquidglass
 
 import android.app.Application
 import android.app.Instrumentation
 import android.content.SharedPreferences
 import android.util.Log
-import com.bililiquidglass.xposed.config.GlassConfig
-import com.bililiquidglass.xposed.hook.BiliHomeBarHook
-import com.bililiquidglass.xposed.hook.HostReflection
+import io.github.tomorisuki2333.bililiquidglass.config.GlassConfig
+import io.github.tomorisuki2333.bililiquidglass.hook.BiliHomeBarHook
+import io.github.tomorisuki2333.bililiquidglass.hook.HostReflection
 import io.github.libxposed.api.XposedModule
 import io.github.libxposed.api.XposedModuleInterface
 import java.util.concurrent.atomic.AtomicBoolean

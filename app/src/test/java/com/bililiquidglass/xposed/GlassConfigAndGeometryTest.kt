@@ -1,11 +1,11 @@
-package com.bililiquidglass.xposed
+package io.github.tomorisuki2333.bililiquidglass
 
-import com.bililiquidglass.xposed.config.GlassConfig
-import com.bililiquidglass.xposed.glass.LiquidGlassGeometry
-import com.bililiquidglass.xposed.glass.LiquidGlassShaders
-import com.bililiquidglass.xposed.hook.ComposeColorSuppressor
-import com.bililiquidglass.xposed.hook.LegacyChromeRole
-import com.bililiquidglass.xposed.hook.LegacyTabChromePolicy
+import io.github.tomorisuki2333.bililiquidglass.config.GlassConfig
+import io.github.tomorisuki2333.bililiquidglass.glass.LiquidGlassGeometry
+import io.github.tomorisuki2333.bililiquidglass.glass.LiquidGlassShaders
+import io.github.tomorisuki2333.bililiquidglass.hook.ComposeColorSuppressor
+import io.github.tomorisuki2333.bililiquidglass.hook.LegacyChromeRole
+import io.github.tomorisuki2333.bililiquidglass.hook.LegacyTabChromePolicy
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertFalse
 import org.junit.Assert.assertNull

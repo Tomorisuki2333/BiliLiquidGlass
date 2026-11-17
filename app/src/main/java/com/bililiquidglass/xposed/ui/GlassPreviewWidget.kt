@@ -1,4 +1,4 @@
-package com.bililiquidglass.xposed.ui
+package io.github.tomorisuki2333.bililiquidglass.ui
 
 import android.content.Context
 import android.graphics.Canvas
@@ -17,8 +17,8 @@ import android.view.ViewGroup
 import android.widget.FrameLayout
 import android.widget.LinearLayout
 import android.widget.TextView
-import com.bililiquidglass.xposed.config.GlassConfig
-import com.bililiquidglass.xposed.glass.LiquidGlassPillLayout
+import io.github.tomorisuki2333.bililiquidglass.config.GlassConfig
+import io.github.tomorisuki2333.bililiquidglass.glass.LiquidGlassPillLayout
 import kotlin.math.roundToInt
 
 /**

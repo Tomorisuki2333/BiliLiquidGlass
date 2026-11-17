@@ -1,4 +1,4 @@
-package com.bililiquidglass.xposed.ui
+package io.github.tomorisuki2333.bililiquidglass.ui
 
 import android.content.Intent
 import android.content.res.Configuration
@@ -19,8 +19,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowCompat
 import androidx.core.view.WindowInsetsCompat
-import com.bililiquidglass.xposed.BuildConfig
-import com.bililiquidglass.xposed.R
+import io.github.tomorisuki2333.bililiquidglass.BuildConfig
+import io.github.tomorisuki2333.bililiquidglass.R
 import com.google.android.material.button.MaterialButton
 import kotlin.math.roundToInt
 

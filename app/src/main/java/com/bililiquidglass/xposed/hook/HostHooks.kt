@@ -1,4 +1,4 @@
-package com.bililiquidglass.xposed.hook
+package io.github.tomorisuki2333.bililiquidglass.hook
 
 import android.graphics.Canvas
 import android.graphics.Color
@@ -8,8 +8,8 @@ import android.util.Log
 import android.view.View
 import android.view.ViewGroup
 import android.view.ViewTreeObserver
-import com.bililiquidglass.xposed.config.GlassConfig
-import com.bililiquidglass.xposed.glass.LiquidGlassPillLayout
+import io.github.tomorisuki2333.bililiquidglass.config.GlassConfig
+import io.github.tomorisuki2333.bililiquidglass.glass.LiquidGlassPillLayout
 import io.github.libxposed.api.XposedInterface
 import java.lang.ref.WeakReference
 import java.lang.reflect.Field

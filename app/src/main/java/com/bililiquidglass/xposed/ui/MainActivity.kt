@@ -1,4 +1,4 @@
-package com.bililiquidglass.xposed.ui
+package io.github.tomorisuki2333.bililiquidglass.ui
 
 import android.content.Intent
 import android.content.SharedPreferences
@@ -19,8 +19,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowCompat
 import androidx.core.view.WindowInsetsCompat
-import com.bililiquidglass.xposed.R
-import com.bililiquidglass.xposed.config.GlassConfig
+import io.github.tomorisuki2333.bililiquidglass.R
+import io.github.tomorisuki2333.bililiquidglass.config.GlassConfig
 import com.google.android.material.button.MaterialButton
 import com.google.android.material.materialswitch.MaterialSwitch
 import com.google.android.material.slider.Slider

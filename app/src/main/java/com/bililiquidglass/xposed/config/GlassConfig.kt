@@ -1,4 +1,4 @@
-package com.bililiquidglass.xposed.config
+package io.github.tomorisuki2333.bililiquidglass.config
 
 import android.content.SharedPreferences
 import kotlin.math.roundToInt

@@ -1,10 +1,10 @@
-package com.bililiquidglass.xposed.hook
+package io.github.tomorisuki2333.bililiquidglass.hook
 
 import android.os.Handler
 import android.os.Looper
 import android.util.Log
-import com.bililiquidglass.xposed.config.GlassConfig
-import com.bililiquidglass.xposed.glass.LiquidGlassPillLayout
+import io.github.tomorisuki2333.bililiquidglass.config.GlassConfig
+import io.github.tomorisuki2333.bililiquidglass.glass.LiquidGlassPillLayout
 import io.github.libxposed.api.XposedInterface
 import java.lang.ref.WeakReference
 import java.lang.reflect.Method

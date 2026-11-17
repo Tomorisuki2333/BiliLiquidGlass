@@ -1,0 +1,4 @@
+-keep class com.bililiquidglass.xposed.XposedEntry { *; }
+-keep class com.bililiquidglass.xposed.config.GlassConfig { *; }
+-keep class com.bililiquidglass.xposed.config.GlassConfig$Companion { *; }
+-dontwarn io.github.libxposed.api.**

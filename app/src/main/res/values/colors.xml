@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_pink">#FB7299</color>
+    <color name="brand_blue">#23ADE5</color>
+    <color name="surface_bg">#F4F6FA</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#18191C</color>
+    <color name="text_secondary">#61666D</color>
+</resources>

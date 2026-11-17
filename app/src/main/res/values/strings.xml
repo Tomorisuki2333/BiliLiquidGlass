@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bili Liquid Glass</string>
+    <string name="module_description">将哔哩哔哩首页底栏改造为悬浮液态玻璃（Liquid Glass）效果（LSPosed API 102）</string>
+    <string name="status_connected">LSPosed 服务已连接（API %1$d · %2$s %3$s）</string>
+    <string name="status_disconnected">未连接 LSPosed 现代服务：请确认已在支持 API 102 的 LSPosed 中启用本模块（配置将保存在本地以预览，远程配置需服务就绪）</string>
+    <string name="scope_granted">作用域已包含：%1$s</string>
+    <string name="scope_missing">未授予哔哩哔哩作用域，点击下方按钮申请</string>
+    <string name="btn_request_scope">申请哔哩哔哩作用域</string>
+    <string name="btn_reset_defaults">恢复默认参数</string>
+    <string name="btn_open_source_licenses">开源许可与致谢</string>
+    <string name="title_open_source_licenses">开源许可</string>
+    <string name="tip_restart">部分底栏样式调整后，重启哔哩哔哩或重新进入首页生效</string>
+</resources>
